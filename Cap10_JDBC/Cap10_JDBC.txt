@@ -1,0 +1,7 @@
+CAPÍTULO 10 - JDBC
+==================
+O capítulo 10 aborda o JDBC (Java Database 
+Connectivity), uma API que possibilita o acesso 
+a bancos de dados relacionais, ou seja, o 
+mecanismo de persistência tradicional de 
+sistemas comerciais.
