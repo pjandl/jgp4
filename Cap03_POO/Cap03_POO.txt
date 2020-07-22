@@ -1,0 +1,8 @@
+CAPÍTULO 3 - PRINCÍPIOS DE ORIENTAÇÃO A OBJETOS
+===============================================
+No capítulo 3 são abordados os conceitos
+fundamentais da orientação a objetos e sua
+aplicação no Java, ou seja, a construção de 
+classes, a definição de seus atributos, métodos 
+e construtores; além da instanciação de objetos.
+Aborda também a sobrecarga, os membros estáticos, exceções e a criação de pacotes e módulos.
