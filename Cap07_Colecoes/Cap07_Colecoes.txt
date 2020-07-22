@@ -1,0 +1,10 @@
+CAPÍTULO 7 - COLEÇÕES
+=====================
+O capítulo 7 disseca a importante API das 
+Coleções, que fornece as estruturas de dados 
+requeridas por qualquer tipo de programa, 
+abordando suas interfaces, suasimplementações 
+parciais, concretas e legadas, além de sua 
+utilização. Fala também dos streams voltados para
+as operações em massa, que simplificam as tarefas 
+de filtragem, mapeamento e redução de dados.
