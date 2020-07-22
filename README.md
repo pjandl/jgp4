@@ -1,6 +1,8 @@
 # jgp4
 Java - Guia do Programador - 4a Edição
-![alt text](https://github.com/pjandl/jpg4/blob/master/repository-jgp4.png?raw=true)
+
+![Java - Guia do Programador, 4a Ed.](https://github.com/pjandl/jgp4/blob/master/repository-jgp4.png?raw=true)
+
 Este guia de programação pretende apresentar a linguagem Java e, ao mesmo tempo, os conceitos da programação orientada a objetos.
 O livro contém muitos fragmentos de código e centenas de exemplos que cobrem:
 -	Sintaxe Java
