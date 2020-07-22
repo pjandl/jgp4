@@ -1,0 +1,6 @@
+CAPÍTULO 9 - STREAMS
+====================
+O capítulo 9 discute os streams e seu emprego 
+na criação e no uso de arquivos, provendo um 
+mecanismo útil para a persistência e troca de 
+dados.
