@@ -1,0 +1,8 @@
+CAPÍTULO 6 - APLICAÇÃO DE COMPONENTES SWING
+===========================================
+O capítulo 6 aborda a aplicação dos componentes
+Swing, como janelas, diálogos, botões, 
+componentes de texto, painéis e outros 
+componentes especializados; além do uso dos 
+gerenciadores de layout e do modelo de eventos 
+do Java.
