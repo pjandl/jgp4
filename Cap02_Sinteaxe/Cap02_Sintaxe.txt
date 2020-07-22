@@ -1,0 +1,8 @@
+CAPÍTULO 2 - SINTAXE
+====================
+O capítulo 2 traz a estrutura e sintaxe da
+linguagem Java, o que inclui tipos de dados,
+valores literais, operadores, variáveis, escopo, 
+expressões, diretivas de controle, entrada/saída 
+básicas, arranjos, matrizes e argumentos de linha 
+de comando.
