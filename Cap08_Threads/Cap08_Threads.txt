@@ -1,0 +1,4 @@
+CAPÍTULO 8 - THREADS
+====================
+O capítulo 8 fala sobre as threads, seu funcionamento 
+e seu emprego na construção de programas multitarefas.
