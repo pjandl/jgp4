@@ -1,4 +1,5 @@
 CAPÍTULO 5 - CONSTRUÇÃO DE APLICATIVOS COM SWING
 ================================================
 No capítulo 5 temos os princípios da construção de
-aplicações GUI (Graphical User Interface) utilizando os componentes do Swing.
+aplicações GUI (Graphical User Interface) utilizando
+os componentes do Swing.
