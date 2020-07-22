@@ -1,0 +1,8 @@
+CAPÍTULO 4 - ORIENTAÇÃO A OBJETOS APLICADA
+==========================================
+O capítulo 4 aprofunda o estudo e aplicação da 
+orientação a objetos, discutindo a herança, 
+classes abstratas, interfaces, polimorfismo, 
+classes internas; além de elementos mais 
+específicos, como os genéricos, as expressões 
+lambda e as referências para métodos.
