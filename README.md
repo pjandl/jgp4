@@ -17,4 +17,4 @@ O livro contém muitos fragmentos de código e centenas de exemplos que cobrem:
 -	Arquivos e Streams
 -	JDBC
 
-Este material é atualizado até a versão 14 do Java.
+Este material é atualizado até a versão 15 do Java.
