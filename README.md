@@ -15,6 +15,6 @@ O livro contém muitos fragmentos de código e centenas de exemplos que cobrem:
 -	Coleções
 -	Threads
 -	Arquivos e Streams
--	JDBC
+-	JDBC (Java Database Connectivity)
 
-Este material é atualizado até a versão 15 do Java.
+Este material está atualizado até a versão 15 do Java.
