@@ -20,7 +20,7 @@ public class P0408Circunferencia extends P0407Forma {
 		setMedida(0, raio);
 	}
 	
-	// alterações para exemplo 4.63
+	// alterações para exemplo 4.53
 	public static int comparador(P0408Circunferencia a, P0408Circunferencia b) {
 		return (int) (a.area() - b.area());
 	}
