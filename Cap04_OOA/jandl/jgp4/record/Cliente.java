@@ -1,8 +1,8 @@
 package jandl.jgp4.record;
 
 public record Cliente (String nome, int id) { 
-	// Adições do exemplo 4.67
-	// Construtor canônico com validação
+	// AdiÃ§Ãµes do exemplo 4.57
+	// Construtor canÃ´nico com validaÃ§Ã£o
 	public Cliente(String nome, int id) {
 		if (nome==null || nome.length()<2) {
 			throw new IllegalArgumentException("Componente nome invalido: " + nome);
@@ -13,11 +13,11 @@ public record Cliente (String nome, int id) {
 		this.nome = nome;
 		this.id = id;
 	}
-	// Construtor com parâmetro único
+	// Construtor com parÃ¢metro Ãºnico
 	public Cliente(String nome) {
 		this(nome, 0);
 	}
-	// Método adicional: prenome (primeiro nome)
+	// MÃ©todo adicional: prenome (primeiro nome)
 	public String prenome() {
 		return nome.split(" ")[0];
 	}
