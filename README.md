@@ -25,7 +25,7 @@ Este repositório está organizado conforme a estrutura de capítulo do livro. P
 
 - Capítulo 1: Introdução [ [Exemplos](https://github.com/pjandl/jgp4/tree/master/Cap01_Introducao) | [Exercícios](https://github.com/pjandl/jgp4/tree/master/Cap01_Introducao/Exercicios_Revisao) ]
 - Capítulo 2: Sintaxe Java [ Exemplos](https://github.com/pjandl/jgp4/tree/master/Cap02_Sintaxe) | [Exercícios](https://github.com/pjandl/jgp4/tree/master/Cap02_Sintaxe/Exercicios_Revisao) ]
-- Capítulo 3: Orientação a Objetos [ [Exemplos](https://github.com/pjandl/jgp4/tree/master/Cap03_POO) | Exercícios ]
+- Capítulo 3: Orientação a Objetos [ [Exemplos](https://github.com/pjandl/jgp4/tree/master/Cap03_POO) | [Exercícios](https://github.com/pjandl/jgp4/tree/master/Cap03_POO/Exercicios_Revisao) ]
 - Capítulo 4: Orientação a Objetos Aplicada [ [Exemplos](https://github.com/pjandl/jgp4/tree/master/Cap04_OOA) | Exercícios ]
 - Capítulo 5: Construção de aplicativos GUI com Swing [ [Exemplos](https://github.com/pjandl/jgp4/tree/master/Cap05_GUI_Swing) | Exercícios ]
 - Capítulo 6: Aplicação de componentes Swing [ [Exemplos](https://github.com/pjandl/jgp4/tree/master/Cap06_App_Swing) | Exercícios ]
